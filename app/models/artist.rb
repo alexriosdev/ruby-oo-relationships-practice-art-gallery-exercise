@@ -1,7 +1,3 @@
-# UNIFINISHED
-# UNIFINISHED
-# UNIFINISHED
-
 class Artist
 
   attr_reader :name, :years_experience
